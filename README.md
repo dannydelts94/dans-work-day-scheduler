@@ -6,7 +6,7 @@ The purpose of this project was to put together a work day scheduler that is col
 
 ## Usage
 
-To use this work day scheduler you will need to access it in the browser. Upon loading the app you will see the current date in the header. If you scroll down you will see timeslots to right of bussines hours of your day. Hours in grey are past, hours in red current, and hours in green future. To add a meeting insert your text in the colored box and click the blue save button. Your meeting is saved!
+To use this work day scheduler you will need to access it in the browser. Upon loading the app you will see the current date in the header. If you scroll down you will see timeslots to right of business hours of your day. Hours in grey are past, hours in red current, and hours in green future. To add a meeting insert your text in the colored box and click the blue save button. Your meeting is saved!
 
 ## Credits
 
@@ -17,5 +17,7 @@ N/A
 MIT
 
 ## Deployed Link
+
+ https://dannydelts94.github.io/dans-work-day-scheduler/
 
 ![Screenshot of dan's work day scheduler](/assets/workdayscheduler%20screenshot.png)
